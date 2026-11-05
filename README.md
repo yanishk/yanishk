@@ -1,8 +1,8 @@
-### Hi, I'm Yanis 👋
+Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I mostly build backends and systems software, in TypeScript, Go and C++.
 
-Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I mostly build backends and systems software, in Go, C and C++.
+💼 [LinkedIn](https://www.linkedin.com/in/yanis-harkouk) · 📍 Paris
 
-💼 [LinkedIn](https://www.linkedin.com/in/yanis-harkouk) · 🌐 [playforward.fr](https://playforward.fr) · 📍 Paris
+🎮 Currently working on [**PlayForward**](https://playforward.fr): indie video game recommendations based on what you play.
 
 #### Projects
 
@@ -14,5 +14,4 @@ Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I most
 
 #### Stack
 
-**Languages**: C · C++ · Go · TypeScript · Python
-**Tools**: Docker · PostgreSQL · React · CMake · GitHub Actions · Linux
+TypeScript · Go · C · C++ · Python · Node.js · PostgreSQL · Docker · GitHub Actions
