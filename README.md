@@ -4,6 +4,8 @@ Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I most
 
 🎮 Currently working on [**PlayForward**](https://playforward.fr): indie video game recommendations based on what you play.
 
+<a href="https://playforward.fr"><img src="assets/playforward-short.jpg" alt="PlayForward home page"></a>
+
 #### Projects
 
 <table>
