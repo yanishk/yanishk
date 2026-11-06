@@ -28,6 +28,8 @@ Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I most
   </tr>
 </table>
 
+Also: [**The Plazza**](https://github.com/yanishk/theplazza) (multi-process pizzeria simulation in C++) · [**42sh**](https://github.com/yanishk/42sh) (tcsh-like shell in C)
+
 #### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,go,c,cpp,py,nodejs,postgres,docker,githubactions&perline=9" alt="TypeScript, Go, C, C++, Python, Node.js, PostgreSQL, Docker, GitHub Actions" height="40">
