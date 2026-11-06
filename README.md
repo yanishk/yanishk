@@ -26,9 +26,26 @@ Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I most
       <br><sub>C++ gaming platform where games and graphics libraries (SFML, SDL2, ncurses) are swapped at runtime.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/image_compressor"><img src="assets/image_compressor.jpg" alt="PlayForward's mascot next to its 6-colour version"></a>
+      <br><a href="https://github.com/yanishk/image_compressor"><b>image_compressor</b></a>
+      <br><sub>Haskell image compressor that groups pixels into k colours with k-means clustering.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/zappy"><img src="assets/zappy.jpg" alt="zappy's 3D viewer on a Queen's island"></a>
+      <br><a href="https://github.com/yanishk/zappy"><b>zappy</b></a>
+      <br><sub>Multiplayer game played by AIs: C server, C++ AI clients that cooperate through broadcasts, 3D raylib viewer.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/wolfram"><img src="assets/wolfram.jpg" alt="Rule 30 drawn by wolfram"></a>
+      <br><a href="https://github.com/yanishk/wolfram"><b>wolfram</b></a>
+      <br><sub>Wolfram's elementary cellular automata in Haskell: all 256 rules, with a custom first generation.</sub>
+    </td>
+  </tr>
 </table>
 
-Also: [**The Plazza**](https://github.com/yanishk/theplazza) (multi-process pizzeria simulation in C++) · [**42sh**](https://github.com/yanishk/42sh) (tcsh-like shell in C)
+Also: [**The Plazza**](https://github.com/yanishk/theplazza) (multi-process pizzeria simulation in C++) · [**42sh**](https://github.com/yanishk/42sh) (tcsh-like shell in C) · [**myteams**](https://github.com/yanishk/myteams) (Teams-like chat server and CLI client in C)
 
 #### Stack
 
