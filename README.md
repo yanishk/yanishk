@@ -6,12 +6,26 @@ Software engineering student at [Epitech](https://www.epitech.eu/) Paris. I most
 
 #### Projects
 
-| | |
-|---|---|
-| [**R-Type**](https://github.com/yanishk/R-Type) | 4-player networked shooter in C++17 on a custom ECS engine, with an authoritative UDP server (Asio) and raylib rendering. |
-| [**AREA**](https://github.com/yanishk/AREA) | IFTTT-style automation platform: Go REST API with OAuth2 for 9 providers, React web app, Flutter mobile app, Docker Compose. |
-| [**arcade**](https://github.com/yanishk/arcade) | C++ gaming platform where games and graphics libraries (SFML, SDL2, ncurses) are shared libraries swapped at runtime. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/R-Type"><img src="assets/r-type.jpg" alt="R-Type gameplay"></a>
+      <br><a href="https://github.com/yanishk/R-Type"><b>R-Type</b></a>
+      <br><sub>4-player networked shooter in C++17 on a custom ECS engine, with an authoritative UDP server.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/AREA"><img src="assets/area.jpg" alt="AREA web client"></a>
+      <br><a href="https://github.com/yanishk/AREA"><b>AREA</b></a>
+      <br><sub>IFTTT-style automation platform: Go REST API with OAuth2 for 9 providers, web and mobile clients.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/yanishk/arcade"><img src="assets/arcade.jpg" alt="arcade running Nibbler"></a>
+      <br><a href="https://github.com/yanishk/arcade"><b>arcade</b></a>
+      <br><sub>C++ gaming platform where games and graphics libraries (SFML, SDL2, ncurses) are swapped at runtime.</sub>
+    </td>
+  </tr>
+</table>
 
 #### Stack
 
-TypeScript · Go · C · C++ · Python · Node.js · PostgreSQL · Docker · GitHub Actions
+<img src="https://skillicons.dev/icons?i=ts,go,c,cpp,py,nodejs,postgres,docker,githubactions&perline=9" alt="TypeScript, Go, C, C++, Python, Node.js, PostgreSQL, Docker, GitHub Actions" height="40">
